@@ -1,0 +1,2 @@
+# Мы не хотим копировать .dockerignore файл в контейнер
+.dockerignore
